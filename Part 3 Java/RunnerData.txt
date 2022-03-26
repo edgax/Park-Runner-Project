@@ -1,0 +1,117 @@
+10
+Mary Bloggs
+1996
+3
+2
+Female
+5
+Marley Park
+23.5
+Marley Park
+22.9
+Marley Park
+23.6
+Marley Park
+23.0
+Marley Park
+22.99
+John Smith
+1976
+8
+22
+Male
+1
+St Anne's Park
+33.5
+Jane Mary O'Brien
+2000
+4
+12
+Female
+2
+shanganagh Park
+26.5
+shanganagh Park
+26.7
+Barry Ryan
+1966
+5
+2
+Male
+3
+Cabinteely Park
+28.5
+shanganagh Park
+25.7
+Cabinteely Park
+27.9
+Brian English
+1953
+11
+20
+Male
+10
+Cabinteely Park
+18.5
+Cabinteely Park
+17.1
+Cabinteely Park
+16.8
+Cabinteely Park
+18.1
+Cabinteely Park
+18.6
+Cabinteely Park
+18.5
+Cabinteely Park
+18.1
+Cabinteely Park
+18.3
+Cabinteely Park
+18.1
+Cabinteely Park
+17.8
+May English
+1954
+1
+2
+Female
+0
+Annie English
+1955
+10
+12
+Female
+1
+Cabinteely Park
+47.8
+Betty Green
+1955
+10
+12
+Female
+2
+Cabinteely Park
+27.1
+Cabinteely Park
+28.0
+John Green
+1954
+3
+4
+Male
+2
+Cabinteely Park
+20.4
+Cabinteely Park
+21.0
+Mary Green
+1995
+1
+22
+Female
+2
+Cabinteely Park
+19.8
+Cabinteely Park
+18.0

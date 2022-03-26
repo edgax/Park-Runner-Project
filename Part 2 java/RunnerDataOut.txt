@@ -1,0 +1,182 @@
+Barcode = A0000001
+Name: Mary Bloggs
+Gender: 23
+Number of Runs = 5
+ParkName: Marley Park 
+
+runTime: 23.50 
+
+ParkName: Marley Park 
+
+runTime: 22.90 
+
+ParkName: Marley Park 
+
+runTime: 23.60 
+
+ParkName: Marley Park 
+
+runTime: 23.00 
+
+ParkName: Marley Park 
+
+runTime: 22.99 
+
+Average runs= 23.198
+Fastest runs= 23.6
+Slowest runs= 22.9
+Barcode = A0000002
+Name: John Smith
+Gender: 42
+Number of Runs = 1
+ParkName: St Anne's Park 
+
+runTime: 33.50 
+
+Average runs= 6.7
+Fastest runs= 0.0
+Slowest runs= 33.5
+Barcode = A0000003
+Name: Jane Mary O'Brien
+Gender: 19
+Number of Runs = 2
+ParkName: shanganagh Park 
+
+runTime: 26.50 
+
+ParkName: shanganagh Park 
+
+runTime: 26.70 
+
+Average runs= 10.64
+Fastest runs= 26.7
+Slowest runs= 26.5
+Barcode = A0000004
+Name: Barry Ryan
+Gender: 52
+Number of Runs = 3
+ParkName: Cabinteely Park 
+
+runTime: 28.50 
+
+ParkName: shanganagh Park 
+
+runTime: 25.70 
+
+ParkName: Cabinteely Park 
+
+runTime: 27.90 
+
+Average runs= 16.419999999999998
+Fastest runs= 27.9
+Slowest runs= 25.7
+Barcode = A0000005
+Name: Brian English
+Gender: 65
+Number of Runs = 10
+ParkName: Cabinteely Park 
+
+runTime: 18.50 
+
+ParkName: Cabinteely Park 
+
+runTime: 17.10 
+
+ParkName: Cabinteely Park 
+
+runTime: 16.80 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.10 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.60 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.50 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.10 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.30 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.10 
+
+ParkName: Cabinteely Park 
+
+runTime: 17.80 
+
+Average runs= 35.980000000000004
+Fastest runs= 18.6
+Slowest runs= 16.8
+Barcode = A0000006
+Name: May English
+Gender: 65
+Number of Runs = 0
+Average runs= 0.0
+Fastest runs= 0.0
+Slowest runs= 0.0
+Barcode = A0000007
+Name: Annie English
+Gender: 63
+Number of Runs = 1
+ParkName: Cabinteely Park 
+
+runTime: 47.80 
+
+Average runs= 9.559999999999999
+Fastest runs= 0.0
+Slowest runs= 47.8
+Barcode = A0000008
+Name: Betty Green
+Gender: 63
+Number of Runs = 2
+ParkName: Cabinteely Park 
+
+runTime: 27.10 
+
+ParkName: Cabinteely Park 
+
+runTime: 28.00 
+
+Average runs= 11.02
+Fastest runs= 28.0
+Slowest runs= 27.1
+Barcode = A0000009
+Name: John Green
+Gender: 65
+Number of Runs = 2
+ParkName: Cabinteely Park 
+
+runTime: 20.40 
+
+ParkName: Cabinteely Park 
+
+runTime: 21.00 
+
+Average runs= 8.28
+Fastest runs= 21.0
+Slowest runs= 20.4
+Barcode = A0000010
+Name: Mary Green
+Gender: 24
+Number of Runs = 2
+ParkName: Cabinteely Park 
+
+runTime: 19.80 
+
+ParkName: Cabinteely Park 
+
+runTime: 18.00 
+
+Average runs= 7.56
+Fastest runs= 18.0
+Slowest runs= 18.0
